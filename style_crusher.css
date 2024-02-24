@@ -1,0 +1,59 @@
+.body-class {
+    background-color: rgb(55, 56, 54);
+}
+
+.header-class {
+    background-color: rgb(112, 112, 111);
+    color: rgb(159, 74, 234);
+}
+
+.nav-class {
+    background-color: rgb(155, 155, 155);
+    overflow: hidden;
+}
+
+.nav-class a {
+    color: rgb(159, 74, 234);
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.title-class {
+    color: rgb(231, 219, 241)    
+}
+
+.section-title-class {
+    color: rgb(177, 132, 216)
+}
+
+.text-class {
+    color:rgb(231, 219, 241)
+}
+
+.image-class {
+    border-style: groove;
+    border-color: rgb(231, 219, 241);
+    width: 75%;
+    height: 50%;
+}
+
+.form-class {
+    color: rgb(231, 219, 241);
+}
+
+.button-class {
+    color: rgb(55,56,54)
+};
+
+.footer-class {
+    color: rgb(231, 219, 241);
+    background-color:rgb(155, 155, 155);
+}
+
+.cite-class {
+    color: rgb(231, 219, 241);
+}
+
+.faq-question-class {
+    color: rgb(231, 219, 241);
+}
